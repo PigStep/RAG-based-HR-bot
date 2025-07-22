@@ -1,0 +1,106 @@
+Company Name: NeuralTech Innovations
+
+Recruitment Policy
+1. Introduction
+
+1.1 Effective and consistent recruitment practices are essential to ensure that all applicants are treated fairly and with equality of opportunity so that costly recruitment mistakes are avoided.
+
+1.2 The recruitment process must result in the selection of the most suitable person for the job in respect of skills, experience, and qualifications. To this end, NeuralTech Innovations will recruit candidates who are most suited to the position in question and comply with its Equal Opportunities and Diversity Policy at all times. The nationality of the most suitable candidate will have no bearing on whether or not he/she is selected for the post, subject to the requirement to meet the resident labour market test where applicable and eligibility for sponsorship where necessary.
+
+1.3 This Policy defines the principles that NeuralTech Innovations considers important in the recruitment process and aims to ensure that consistency and good practice is applied across the Company.
+2. Equal Opportunities/Equality and Diversity in Recruitment
+
+2.1 It is against NeuralTech Innovations’ Equal Opportunities and Diversity Policy to discriminate either directly or indirectly on the grounds of race, nationality, ethnic origin, gender, marital status, pregnancy, age, disability, sexual orientation, gender reassignment, ethnicity, cultural or religious beliefs. Reasonable adjustments to the recruitment process will be made to ensure that no applicant is disadvantaged because of his/her disability.
+
+2.2 All employees are required to comply with the requirements of the Equal Opportunities and Diversity Policy at every stage of the recruitment process, including production of job descriptions, advertising material, instructions given to recruitment agencies, shortlisting of applications, interviewing, selection decisions, and offers of employment.
+
+2.3 All policies and procedures reflect our commitment to achieving and maintaining equal opportunities within the workplace. It is the responsibility of every employee to monitor continually and evaluate formal and informal practices and procedures to ensure that they do not directly or indirectly discriminate against any individual or group in society.
+
+2.4 NeuralTech Innovations will treat all job applicants equally at each stage of the recruitment process, and no assumptions will be made on the basis of appearance, name, or background. There will be no assumption that a foreign national or someone from an ethnic minority has no right to work in the UK.
+
+2.5 Any employee found to be discriminating in any way during the recruitment process will be subject to the disciplinary procedure and may be liable to dismissal.
+3. Monitoring Equal Opportunities/Equality and Diversity in Recruitment
+
+3.1 To monitor the effectiveness of the Recruitment and Equal Opportunities Policy, all candidates must complete the Equal Opportunities Monitoring Form. Data collected regarding gender and ethnic origins will be used solely for monitoring equal opportunity and will be held confidentially by the Company.
+4. Recruitment Authorisation
+
+4.1 Any vacancy must be authorised by the Head of Talent Acquisition before any attempt is made to fill the role. Consideration should be given to whether the role could be absorbed within the existing team or elsewhere in the Company.
+
+4.2 Once authorised, the hiring manager must produce a Job Description Form that accurately represents the role, including a clearly drafted Person Specification.
+
+4.3 The job description will outline duties, responsibilities, and seniority, while the person specification will detail required qualifications, knowledge, experience, skills, and competencies.
+
+4.4 The Job Description Form will be provided to all candidates prior to interview to ensure adequate preparation.
+
+4.5 Care must be taken to avoid unreasonable requirements that may disadvantage certain groups (e.g., women, ethnic minorities, or disabled persons).
+5. Job Descriptions and Person Specifications
+
+5.1 The hiring manager must ensure the job description aligns with the AI/ML industry standards, clearly defining technical and soft skills required (e.g., Python, TensorFlow, NLP, or Computer Vision expertise).
+
+5.2 The person specification should distinguish between essential and desirable qualifications (e.g., "PhD in Machine Learning preferred but not mandatory").
+
+5.3 Unjustified barriers (e.g., requiring excessive years of experience for entry-level AI roles) must be avoided.
+6. Advertising of Vacancies
+
+6.1 All vacancies must first be advertised internally. If no suitable internal candidates are found, external recruitment methods (e.g., LinkedIn, AI/ML job boards like NeurIPS Careers, or specialized agencies) will be used.
+
+6.2 Advertisements must be approved by the HR Department and comply with Equal Opportunities Commission guidelines.
+7. Shortlisting
+
+7.1 Shortlisting criteria will be based on:
+
+    Relevance of technical skills (e.g., experience with deep learning frameworks).
+
+    Alignment with the role’s requirements (e.g., research publications for R&D positions).
+
+    Diversity considerations to ensure a balanced candidate pool.
+
+8. Recruitment Interviews
+
+8.1 Interviews will assess:
+
+    Technical proficiency (e.g., coding tests, case studies on ML models).
+
+    Behavioral competencies (e.g., teamwork in agile AI projects).
+
+    Cultural fit within NeuralTech’s innovative environment.
+
+8.2 Interviewers must avoid discriminatory questions and document all interviews for HR review.
+9. Offer of Employment
+
+9.1 Offers require approval from the Chief Technology Officer (CTO) and HR Director.
+9.2 Salaries must align with market rates for AI roles (e.g., ML Engineers: £60K–£100K).
+9.3 Verbal offers followed by written contracts will be issued.
+10. Points-Based System (for UK Roles)
+
+10.1 NeuralTech Innovations holds a Tier 2 Sponsor Licence and complies with Home Office requirements for hiring non-UK talent in AI/ML roles.
+10.2 Resident Labour Market Tests will be conducted where applicable.
+11. References
+
+11.1 Offers are conditional on two professional references, preferably from prior employers or academic supervisors for recent graduates.
+12. The Bribery Act
+
+12.1 For roles in Data Procurement or Client-Facing AI Solutions, additional checks (e.g., criminal records) may be conducted.
+13. Qualification Certificates
+
+13.1 Candidates must provide proof of degrees/certifications (e.g., AWS ML Certification, Coursera Deep Learning Specialization). Falsification will result in dismissal.
+14. Work Permits and Illegal Working
+
+14.1 NeuralTech will verify right-to-work documents (e.g., passports, visas) for all hires. Non-compliance will result in withdrawn offers.
+15. Personnel Records
+
+15.1 Employee files include:
+
+    Proof of right-to-work
+
+    Certifications (e.g., TensorFlow Developer Certificate)
+
+    Performance reviews
+
+16. Complaints Procedure
+
+Applicants or employees may submit complaints to the Head of HR via the Grievance Policy.
+
+Disclaimer: This document is for informational purposes only. NeuralTech Innovations disclaims liability for any reliance placed on its content.
+
+(Note: Replace placeholder brackets like [Insert Name] with actual company details before use.)
